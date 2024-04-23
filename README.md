@@ -1,2 +1,2 @@
-# probabilitycalculator
+# probability-calculator
 probability-calculator
